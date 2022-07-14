@@ -32,3 +32,5 @@ For all of you which use Monero.
 I do not mine for several reasons. One being that the electrical bills are getting higher so it is not profitable. Another is that I'd only get 1 per year.
 
 For all the other people who do things normally (do not take offence,) the indirect transaction to debit will be coming... eventually.
+
+![Commits snek](https://raw.githubusercontent.com/StringentDev/StringentDev/snake/github-contribution-grid-snake.svg)
